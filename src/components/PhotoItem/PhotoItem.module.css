@@ -1,0 +1,11 @@
+.photoBox {
+    display: inline-block;
+    border: 2px solid #000;
+    margin: 10px;
+    height: 200px;
+    padding: 20px;
+    cursor: pointer;
+}
+.photoBox:hover {
+    background-color: #eee;
+}
